@@ -10,3 +10,7 @@ The current project was about seting up projects github repository
 2. Created an SSH key to clone from Github 
 3. Cloned the repository in local machine with code ans SSH
 4. the git command - git clone git@github.com:username/odin-recipes.git (use SSH)
+
+### Projects details
+* Projects are not in detail they are just used for learning purpose
+* Images used are entirely for educational purpose
